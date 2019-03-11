@@ -7,3 +7,15 @@ body {
 main {
     width: 1024px;
 }
+a {
+    color: #0366d6;
+    text-decoration: none;
+}
+li {
+    margin-top: 10px;
+}
+.contact-name {
+    font-weight: bold;
+    min-width: 60px;
+    display: inline-block;
+}
